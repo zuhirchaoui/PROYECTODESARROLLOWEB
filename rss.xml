@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+
+<item>
+<title>Zapatillas Suede Classic XXI</title>
+<link>http://localhost/xampp/store/productos.php?id=1</link>
+<description>Las zapatillas más emblemáticas de PUMA aparecieron por primera vez en 1968 y causaron un gran impacto en la cultura del calzado. Desde entonces, han acompañado a iconos de to... 
+</description>
+</item>
+
+<item>
+<title>AIR Jordan</title>
+<link>http://localhost/xampp/store/productos.php?id=1</link>
+<description>Especialmente cuando vienen en una silueta y color tan versátiles y prácticos como estas zapatillas Air Jordan 1 Mid Milan de Nike.</description>
+</item>
+
+<item>
+<title>AIR MAX 97</title>
+<link>>http://localhost/xampp/store/productos.php?id=1</link>
+<description>Zapas nike AIRMAX97 ultimo modelo.</description>
+</item>
+
+</channel>
+</rss>
